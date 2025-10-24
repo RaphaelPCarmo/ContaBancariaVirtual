@@ -1,32 +1,41 @@
 
-# 🏦 Desafio Java - Simulação de Conta Bancária
+# 🔢 Desafio Java - Simulação de Conta Bancária
 
-Simulação de uma conta bancária em **Java** com operações básicas: consultar saldo, transferir e receber valores.
+Um sistema simples em **Java** que permite ao usuário consultar saldo, transferir e receber valores em uma conta corrente.  
+Este projeto é ideal para praticar lógica de programação, estruturas condicionais e laços de repetição.
 
+### Built with
 
-## 🚀 Funcionalidades
-- Consultar saldo  
-- Transferir valores  
-- Receber valores  
-- Sair do sistema  
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+* ![Scanner](https://img.shields.io/badge/Scanner-Blue?style=for-the-badge)
 
+<h2> ✨ Funcionalidades </h2>
 
-## 💻 Tecnologias
-- Java 17+  
-- Scanner para entrada de dados  
+- 🔄 Consultar saldo atualizado
+- 💸 Transferir valores (com verificação de saldo)
+- 💰 Receber valores (depósito)
+- 🚪 Sair do sistema
 
+<h2> 🚀 Como Executar o Projeto </h2>
 
-## ▶️ Como executar
+• Clone o repositório:  
 ```bash
 git clone https://github.com/raphaelperimdocarmo/desafio-java-conta-bancaria.git
-cd desafio-java-conta-bancaria
-javac Desafio.java
-java Desafio
 ````
 
----
+• Compile o código:
 
-## 📦 Código-fonte
+```bash
+javac Desafio.java
+```
+
+• Execute o programa:
+
+```bash
+java Desafio
+```
+
+<h2> 📦 Código-fonte (Desafio.java) </h2>
 
 ```java
 import java.util.Scanner;
@@ -80,33 +89,21 @@ public class Desafio {
 }
 ```
 
----
+<h2> 🎯 Objetivo do Projeto </h2>
 
-## 📸 Exemplo de execução
+Este projeto foi criado com o objetivo de praticar:
 
-```
-**************************
-Nome: Clark Kent
-Conta: Corrente
-Saldo: 2599.99
-**************************
+🧩 Lógica de programação em Java
+🔄 Estruturas condicionais e laços de repetição
+💻 Interação com o usuário via console
 
-DIGITE SUA OPÇÃO
-1 - Consultar saldo
-2 - Transferir valor
-3 - Receber valor
-4 - Sair
-```
+<h2> 📝 Licença </h2>
 
----
+Este projeto é de uso livre e sem fins comerciais.
+Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
-## 👨‍💻 Autor
+<h2> 👤 Criado por </h2>
 
-**Raphael Perim do Carmo**
+<strong>Raphael Perim do Carmo</strong>
 [LinkedIn](https://www.linkedin.com/in/raphaelperimdocarmo)
 
-```
-
-
-Quer que eu faça?
-```
