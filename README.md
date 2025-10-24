@@ -1,9 +1,4 @@
-Perfeito, Raphael 😎
-Vou organizar **todo o seu README** com os blocos de código **corretos**, fechando todos os ``` corretamente e formatando para GitHub, de forma que fique **pronto para copiar e colar**.
 
----
-
-````markdown
 # 🏦 Desafio Java - Simulação de Conta Bancária
 
 Este projeto em **Java** simula um pequeno sistema bancário com funcionalidades básicas de uma conta corrente.  
