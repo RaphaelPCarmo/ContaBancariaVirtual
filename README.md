@@ -103,6 +103,7 @@ Este projeto é de uso livre e sem fins comerciais.
 Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
 <h2> 👤 Criado por </h2>
+<img src="https://github.com/RaphaelPCarmo.png" width="120" style="border-radius: 30%"><br>
 
 <strong>Raphael Perim do Carmo</strong>
 
