@@ -105,7 +105,6 @@ Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 👤 Criado por  
 <img src="https://github.com/RaphaelPCarmo.png" width="120" style="border-radius: 30%"><br>
 **Raphael Perim do Carmo**  
-[LinkedIn](https://www.linkedin.com/in/raphaelperimdocarmo)
 
 
 
