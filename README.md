@@ -107,9 +107,6 @@ Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
 <strong>Raphael Perim do Carmo</strong>
 
-<a href="https://www.linkedin.com/in/raphaelperimdocarmo" target="_blank">
-  <strong style="background-color:#0A66C2; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
-    LinkedIn
-  </strong>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelperimdocarmo)
+
 
