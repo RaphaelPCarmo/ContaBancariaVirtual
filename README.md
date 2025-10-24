@@ -3,7 +3,6 @@
 
 Simulação de uma conta bancária em **Java** com operações básicas: consultar saldo, transferir e receber valores.
 
----
 
 ## 🚀 Funcionalidades
 - Consultar saldo  
@@ -11,13 +10,11 @@ Simulação de uma conta bancária em **Java** com operações básicas: consult
 - Receber valores  
 - Sair do sistema  
 
----
 
 ## 💻 Tecnologias
 - Java 17+  
 - Scanner para entrada de dados  
 
----
 
 ## ▶️ Como executar
 ```bash
